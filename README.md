@@ -1,6 +1,8 @@
 # Formulator
 
-Elixir library to calculate formulas. Supports variables and recursive formulas. 
+Elixir library to calculate formulas. Supports variables and recursive formulas.
+
+This is by no means production ready, so use it at your own risk.
 
 ## Usage
 
