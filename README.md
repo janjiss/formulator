@@ -27,8 +27,7 @@ Elixir library to calculate formulas. Supports variables and recursive formulas.
 
     Formulator.start(formulas, variables)
 
-    # Will Prouce following result: 
-
+    # Will proudce following result: 
 
     %{
       "First Formula" => Decimal.new(524_291),
